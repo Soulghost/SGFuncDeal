@@ -27,27 +27,27 @@ NSLog(@"结果：%f",res);
 
 ###对数学函数的支持情况及书写
 其中书写方法为中缀表达式中呈现的形式，记法为后缀表达式生成的形式。
-          --------------------------
-                  函数对照表：
-          --------------------------
-          函数名     书写方法     记法
-          sin       sin         s
-          cos       cos         c
-          tan       tan         t
-          arcsin    arcsin      a
-          arccos    arccos      b
-          arctan    arctan      d
-          sqrt      sqrt        f
-          log2      log         g
-          log10     lg          h
-          ln(loge)  ln          k
-          abs       abs         l
-          pow       ^()         ^()
-          --------------------------
-          --------------------------
-                  常量对照表：
-          --------------------------
-          常量名     书写方法     记法
-          PI        p           p
-          e         e           e
-          --------------------------
+ -------------------------- </br>
+         函数对照表：</br>
+ --------------------------</br>
+ 函数名     书写方法     记法</br>
+ sin       sin         s </br>
+ cos       cos         c</br>
+ tan       tan         t</br>
+ arcsin    arcsin      a</br>
+ arccos    arccos      b</br>
+ arctan    arctan      d</br>
+ sqrt      sqrt        f</br>
+ log2      log         g</br>
+ log10     lg          h</br>
+ ln(loge)  ln          k</br>
+ abs       abs         l</br>
+ pow       ^()         ^()</br>
+ --------------------------</br>
+ --------------------------</br>
+         常量对照表：</br>
+ --------------------------</br>
+ 常量名     书写方法     记法</br>
+ PI        p           p</br>
+ e         e           e</br>
+ --------------------------</br>
