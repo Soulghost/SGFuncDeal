@@ -48,8 +48,9 @@
 
 /**
  *  后缀表达式求值（可带变量x）
- *
- *  @param x     变量x
+ * 
+ *  @param postfix 后缀表达式
+ *  @param x 变量x
  *
  *  @return 表达式的值
  */
