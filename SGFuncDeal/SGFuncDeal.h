@@ -40,7 +40,7 @@
 /**
  *  中缀表达式转后缀表达式
  *
- *  @param func 中缀表达式
+ *  @param infix 中缀表达式
  *
  *  @return 后缀表达式
  */
@@ -49,7 +49,6 @@
 /**
  *  后缀表达式求值（可带变量x）
  *
- *  @param bfunc 后缀表达式
  *  @param x     变量x
  *
  *  @return 表达式的值
